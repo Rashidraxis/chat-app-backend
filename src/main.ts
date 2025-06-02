@@ -7,7 +7,7 @@ async function bootstrap() {
     origin: [
       'http://localhost:4200', // For local dev
       'https://chat-app-frontend.vercel.app', // Your Vercel production domain
-      'https://chat-app-frontend-7nux4otjl-rashidraxis-projects.vercel.app', // Preview URL
+      'https://chat-app-frontend-zeta-ashen.vercel.app', // Preview URL
     ],
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
     credentials: true,
